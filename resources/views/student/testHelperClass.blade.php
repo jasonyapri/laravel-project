@@ -1,0 +1,4 @@
+
+{{ Metronic::getSVG() }}
+asd
+
